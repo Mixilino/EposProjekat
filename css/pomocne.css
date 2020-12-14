@@ -1,0 +1,49 @@
+/* Text colors */
+.text-primary {
+    color: #f54029;
+}
+
+.text-secondary {
+    color: #0284d0;
+}
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+
+/* Dugme */
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #f54029;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+/* Dark i light teme*/
+.btn-primary, .bg-primary {
+    background: #f54029;
+    color: #fff;
+}
+.btn-secondary, .bg-secondary {
+    background: #0284d0;
+    color: #fff;
+}
+.btn-dark, .bg-dark {
+    background: #333;
+    color: #fff;
+}
+.btn-light, .bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+.btn-outline {
+    background: transparent;
+    border: 1px solid #fff;
+}
