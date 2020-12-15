@@ -8,10 +8,11 @@
 
 .wrapper2 {
     box-shadow: 0 0 20px 0 rgba(72, 94, 116, 0.7);
-    display: grid;
+    display: flex;
     flex-direction: column-reverse;
     justify-content: space-between;
     align-items: center;
+    margin: 15px 15px;
 
 }
 .wrapper2 img{
