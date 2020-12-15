@@ -1,0 +1,105 @@
+.o-nama {
+    height: 120vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.sadrzaj {
+    /*border: #f54029 3px solid;*/
+    padding-top: 150px;
+    padding-bottom: 50px;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sadrzaj .mapa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /*border: #f54029 3px solid;*/
+    width: 40vw;
+    height: 100%;
+    box-shadow: 0 0 20px 0 rgba(245, 64, 41, 0.7);
+}
+
+.sadrzaj .tekst {
+    /*border: #f54029 3px solid;*/
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 20px 0 rgba(245, 64, 41, 0.7);
+    width: 40vw;
+    height: 100%;
+    text-align: center;
+}
+
+.tekst p {
+    font-size: 13px;
+}
+
+.mapa h1 {
+    padding: 40px 0;
+}
+
+.ko-smo-mi {
+    padding: 30px;
+}
+
+.partneri {
+    height: 15vh;
+    margin: 5px;
+    padding: 0 5px;
+}
+.partneri img{
+    width: 70px;
+    height: auto;
+}
+.logo-partner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.partneri p{
+    font-size: 1.2em;
+}
+
+
+@media (max-width: 880px) {
+
+
+}
+
+@media (max-width: 768px) {
+    .o-nama {
+        height: auto;
+    }
+
+    .sadrzaj {
+        padding-top: 220px;
+        flex-direction: column-reverse;
+    }
+
+    .sadrzaj .tekst {
+        padding-bottom: 50px;
+        width: 85vw;
+        margin-bottom: 25px;
+        height: 100vh;
+    }
+
+    .sadrzaj .mapa {
+        margin: 25px 0;
+        padding: 50px 0;
+        width: 85vw;
+        height: 100vh;
+    }
+
+    .tekst p {
+        font-size: 13px;
+    }
+}
