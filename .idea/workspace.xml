@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0450a2bd-59f0-4ac3-9c0b-d6c2cf628d2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/usluge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/epos_domaci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/epos_domaci.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +52,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mihailo\Desktop\epos_domaci\img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mihailo\Desktop\epos_domaci\css\vendors" />
+      <recent name="C:\Users\Mihailo\Desktop\epos_domaci\css" />
+      <recent name="C:\Users\Mihailo\Desktop\epos_domaci\js\vendors" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/epos_domaci/about.html" useBuiltInWebServerPort="true">
@@ -73,7 +83,7 @@
       <workItem from="1607936892382" duration="9453000" />
       <workItem from="1607963424307" duration="4412000" />
       <workItem from="1607983955837" duration="1976000" />
-      <workItem from="1608030876376" duration="4440000" />
+      <workItem from="1608030876376" duration="9716000" />
     </task>
     <servers />
   </component>
