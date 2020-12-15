@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0450a2bd-59f0-4ac3-9c0b-d6c2cf628d2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/usluge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/epos_domaci.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/epos_domaci.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/kontakt.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pocetna.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pocetna.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/usluge.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/usluge.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usluge.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -84,6 +90,7 @@
       <workItem from="1607963424307" duration="4412000" />
       <workItem from="1607983955837" duration="1976000" />
       <workItem from="1608030876376" duration="9716000" />
+      <workItem from="1608050437176" duration="9963000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kontakt</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+            integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
+            crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="css/pomocne.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/kontakt.css">
+</head>
+<body>
+    <div class="usluge bg-light">
+        <div class="navbar">
+            <a href="index.html" class="logo">
+                <img src="img/logo.png" alt="Logo" class="logo-img">
+                <h1><span class="text-primary logo-text2">LAZAREX</span>23</h1>
+            </a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Pocetna</a></li>
+                    <li><a href="about.html">O nama</a></li>
+                    <li><a href="usluge.html">Usluge</a></li>
+                    <li><a href="kontakt.html">Kontakt</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="container">
+            <h1 class="brand">Kontakt</h1>
+            <div class="wrapper">
+                <div class="company-info">
+                    <h3>Lazarex23</h3>
+                    <ul>
+                        <li><i class="fa fa-road"></i> Ustanička 25, Svilajnac 35210</li>
+                        <li><i class="fa fa-phone"></i> +381 62 273 403</li>
+                        <li><i class="fa fa-envelope"></i> lazarex23@gmail.com@gmail.com</li>
+                    </ul>
+                </div>
+                <div class="contact-form">
+                    <h3>Email us</h3>
+                    <form name="myForm">
+                        <p>
+                            <label>Ime</label>
+                            <input type="text" name="ime">
+                        </p>
+                        <p>
+                            <label>Prezime</label>
+                            <input type="text" name="prezime">
+                        </p>
+                        <p>
+                            <label>Email</label>
+                            <input type="email" name="email" id="mejl">
+                        </p>
+                        <p>
+                            <label>Broj telefona</label>
+                            <input type="text" name="telefon">
+                        </p>
+                        <p class="full">
+                            <label>Poruka</label>
+                            <textarea name="poruka" rows="5"> </textarea>
+                        </p>
+                        <p class="full line">
+                            <input type="checkbox" class="check" name="check">
+                            <label onclick="triggerUslove()">Slazem se sa uslovima koriscenja.</label>
+                        </p>
+                        <p class="full">
+                            <button id="send" onclick="validateForm()" type="button">Posalji</button>
+                        </p>
+                        <p class="full">
+                            <button id="reset" onclick="resetForm()" type="button">Reset</button>
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+    <footer class="footer bg-dark">
+        <div class="drustvene-mreze">
+            <a href="#"><i class="fab fa-facebook fa-2x"></i></a>
+            <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
+            <p>Copyright &copy; 2020 - LAZAREX23 EPOS</p>
+        </div>
+        <div class="contact">
+            <p><i class="fas fa-info"></i> Informacije</p>
+            <p><i class="fas fa-clock"></i> Ponedeljak - Subota 09:00 - 18:00</p>
+            <p><i class="fas fa-phone"></i> +381 62 273 403</p>
+            <p><i class="fas fa-envelope"></i> lazarex23@gmail.com</p>
+        </div>
+    </footer>
+    <script src="js/kontakt.js"></script>
+</body>
+</html>

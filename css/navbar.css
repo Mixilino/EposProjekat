@@ -11,7 +11,7 @@
     top: 0;
     padding: 0 20px;
     transition: 0.5s;
-    position: fixed;
+    position: sticky;
 }
 .logo{
     display: flex;
@@ -34,8 +34,8 @@
 }
 
 .navbar nav a:hover {
-    color: #f54029;
-    border-bottom: #f54029 3px solid;
+    color: #f66d5a;
+    border-bottom: #f66d5a 3px solid;
 }
 
 .navbar ul {

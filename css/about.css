@@ -8,7 +8,7 @@
 
 .sadrzaj {
     /*border: #f54029 3px solid;*/
-    padding-top: 150px;
+    padding-top: 10px;
     padding-bottom: 50px;
     height: 100%;
     display: flex;
@@ -21,10 +21,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
-    /*border: #f54029 3px solid;*/
+    border: #f66d5a 3px solid;
+
     width: 40vw;
     height: 100%;
-    box-shadow: 0 0 20px 0 rgba(245, 64, 41, 0.7);
+    box-shadow: 0 0 20px 0 rgba(246, 109, 90, 0.7);
 }
 
 .sadrzaj .tekst {
@@ -33,7 +34,7 @@
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    box-shadow: 0 0 20px 0 rgba(245, 64, 41, 0.7);
+    box-shadow: 0 0 20px 0 rgba(246, 109, 90, 0.7);
     width: 40vw;
     height: 100%;
     text-align: center;
@@ -85,7 +86,7 @@
     }
 
     .sadrzaj {
-        padding-top: 220px;
+        padding-top: 20px;
         flex-direction: column-reverse;
     }
 
