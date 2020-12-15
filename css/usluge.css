@@ -24,6 +24,23 @@
 .wrapper2 {
 
 }
+.prev {
+    display: block;
+    position: absolute;
+    z-index: 1000;
+    left: -15px;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+.next {
+    display: block;
+    position: absolute;
+    right: -15px;
+    top:50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+}
 
 @media (min-width: 800px) {
     .wrapper2{
