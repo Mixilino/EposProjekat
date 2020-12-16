@@ -50,5 +50,5 @@ function resetForm(){
     return true;
 }
 function triggerUslove(){
-    document.forms["myForm"]["check"].checked = !document.forms["myForm"]["check"].checked;
+    document.forms["myForm"]["check"].checked = false;
 }
