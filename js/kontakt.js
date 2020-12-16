@@ -1,12 +1,12 @@
 function validateForm() {
     let x = document.forms["myForm"]["ime"].value;
     if (x.length < 3) {
-        alert("Ime mora imati bar 2 karaktera");
+        alert("Ime mora imati bar 3 karaktera");
         return false;
     }
     x = document.forms["myForm"]["prezime"].value;
     if (x.length < 3) {
-        alert("Prezime mora imati bar 2 karaktera");
+        alert("Prezime mora imati bar 3 karaktera");
         return false;
     }
     x = document.getElementById("mejl").value;
