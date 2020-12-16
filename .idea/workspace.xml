@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0450a2bd-59f0-4ac3-9c0b-d6c2cf628d2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/js/improvizacija.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/usluge.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/usluge.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/usluge.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/usluge.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usluge.html" beforeDir="false" afterPath="$PROJECT_DIR$/usluge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pocetna.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pocetna.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -59,7 +58,10 @@
       <recent name="C:\Users\Mihailo\Desktop\epos_domaci\css" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.kontakt.html">
+  <component name="RunManager" selected="JavaScript Debug.about.html (1)">
+    <configuration name="about.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/proba/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/epos_domaci/about.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -74,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.about.html (1)" />
         <item itemvalue="JavaScript Debug.kontakt.html" />
         <item itemvalue="JavaScript Debug.usluge.html" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -93,7 +96,9 @@
       <workItem from="1607963424307" duration="4412000" />
       <workItem from="1607983955837" duration="1976000" />
       <workItem from="1608030876376" duration="9716000" />
-      <workItem from="1608050437176" duration="18400000" />
+      <workItem from="1608050437176" duration="18758000" />
+      <workItem from="1608107606866" duration="3037000" />
+      <workItem from="1608110707781" duration="125000" />
     </task>
     <servers />
   </component>
